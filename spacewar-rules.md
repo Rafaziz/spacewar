@@ -100,4 +100,17 @@
 98. Se o celular do piloto descarregar, o jogador perde pontos.
 99. Caso o capitão da nave morra, vote no Yopresidente.
 100. O uso da velocidade da luz só permitida após a apresentacao do selo da Guarda Intergalatica.
+<<<<<<< HEAD
 101. Caso seja visto pelo olho de Sauron, entre em velocidade de dobra em até 5 segundos, ou perca o jogo.
+=======
+101. Travis test
+102. Travis test 2
+103. Travis test 3
+104. Travis test 4 -- drbeco forked
+105. Travis test 5 -- drbeco forked
+106. Travis test 6 -- drbeco forked
+107. Travis test 7 -- drbeco forked
+108. Travis test 8 -- drbeco forked
+109. O uso do QuinJet só deverá ser utilizado mediante autorização prévia do diretor da SHIELD.
+110. Se a nave não decolcar, vá a pé
+>>>>>>> 9536b98126eadc1c4d2c2f01ebe68f2b6f97db75
